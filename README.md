@@ -2,26 +2,22 @@
 
 **`Estudante de Computação`**
 
-Me chamo Jeann Victor,tenho 19 anos e atualmente estou cursando o 3° período de Ciência da Computação na UNIFAL-MG. 
+Me chamo Jeann Victor, tenho 19 anos e atualmente estou cursando o 3° período de Ciência da Computação na UNIFAL-MG.
 
-### 📊 Estatísticas
+![Jeann Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=JeannVictor&show_icons=true&theme=prussian) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeannVictor&layout=compact&theme=prussian)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JeannVictor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div style="display: inline-block;">
+    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeannVictor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 
 
-</p>
-
+<div>
+  <a href="https://www.linkedin.com/in/jeann-victor-batista-350235315/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+  <a href = "mailto:jeann.batista@sou.unifal-mg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
  
