@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Jeann Victor
 **`Computer Science Student`**
 
-My name is Jeann Victor, I'm 19 years old and I'm currently studying Computer Science (4th semester) at UNIFAL-MG.
+My name is Jeann Victor, I'm 20 years old and I'm currently studying Computer Science (5th semester) at UNIFAL-MG.
 
 <div style="display: inline-block;">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
